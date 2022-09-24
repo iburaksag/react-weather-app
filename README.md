@@ -1,4 +1,4 @@
-# Very Simple React Weather App using Open Weather Map API
+## Very Simple React Weather App using Open Weather Map API
 
 # Getting Started with Create React App
 
